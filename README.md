@@ -47,8 +47,17 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:SHEIK FAIZAL S
+### Register Number:212224240151
+## Rendered output
+![image](https://github.com/user-attachments/assets/b92e93b4-4062-4776-91d1-a4de0b5ea091)
+## Fusion 360
+![WhatsApp Image 2025-05-02 at 16 16 57_e9071a84](https://github.com/user-attachments/assets/ee968a79-63cb-48ec-acf9-6ac755669027)
+## Ultimate cura
+![Screenshot 2025-05-02 160909](https://github.com/user-attachments/assets/3c93c6f3-2d09-41d6-a386-39f84942b31c)
+
+
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
